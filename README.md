@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Hey there, Future Innovator!<br><br>Welcome to my corner of the digital universe! I'm Ankit Yadav, a coding enthusiast with a passion for crafting digital experiences that dazzle and delight.<br>Based in india, I'm on a mission to push the boundaries of what's possible in the world of technology.
 
-<img src='https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif/' style= "width:400px;"/>
+<img src='https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif/' style= "width:400px;,align:right;"/>
 '
 
 
