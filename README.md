@@ -1,9 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Ankit Yadav <br>
 A Passionate Frontend and Python Developer From India
-
 <img align = "right" src='https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif/' style= "width:400px;"/>
-
 
 
 ## 🌐 Socials:
