@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Ankit Yadav <br>
-A Passionate Frontend and Python Developer From India <br>
-🔭 I’m currently working on Portfolio. <br>
-🌱 I’m currently learning Responsive Web design <br>
+A Passionate Python Developer and Data Analyst From India <br>
+🔭 I’m currently taking lessons from Masai <br>
+🌱 I’m currently learning Data Science <br>
 📫 How to reach me - ankityadav3m@gmail.com
 <img align = "right" src='https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif/' style= "width:400px;"/>
 
